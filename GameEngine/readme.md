@@ -29,3 +29,4 @@ sudo apt install imgui
 sudo apt-get install libopenal-dev libflac++-dev
 ```
 GL GLU glfw3 X11 Xxf86vm Xrandr pthread Xi dl Xinerama Xcursor
+<img src="https://github-readme-stats.vercel.app/api?username=inkfil&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
